@@ -20,6 +20,6 @@ function logWhisper(string)
 
 function sayHiToGrandma(string)
 {
-  if string == 
+  if string == string.toUpperCase()
   
 }
